@@ -1,0 +1,9 @@
+# Others
+Questions.txt
+
+# cache
+.cache
+.ds_store
+
+# node_modules
+node_modules
