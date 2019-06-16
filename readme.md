@@ -4,6 +4,11 @@ This repo is used to do code-lab for the _Gatsbyjs for beginners_ to teach begin
 
 ## :date: Event Details:
 
+- **Name** : Gatsbyjs for Beginners
+- **Date** : 16th June 2019
+- **Event** Link : [DrupalCampDelhi 2019](http://2019.drupalcampdelhi.com/gatsbyjs-beginners-workshop-jslovers)
+- **Venue** : JNU, New Delhi
+
 - **Name** : Gatsbyjs for beginners
 - **Date** : 19th May 2019
 - **Event** Link : [JSLovers](https://www.meetup.com/jschannel-Bengaluru/events/259555299)
@@ -28,7 +33,7 @@ My Name is Neha Sharma. I have more than 8 years of experience in UI. Currently 
 - :five: Data Creation
 - :six: Read Data from APIGraphQL
 - :seven: Read Data from Markdown
-- :eight: Deploy [optional]
+- :eight: Deploy - Firebase , Netlify or any your favourite cloud. [optional]
 
 ## Session-:zero: : Introduction to Gatsbyjs [Theory]
 In this part we will go through the theory part of Gatsbyjs. We are going to understand
