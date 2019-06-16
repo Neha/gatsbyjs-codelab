@@ -1,24 +1,21 @@
-# Gatsbyjs 
-Gatsbyjs backbone is :
-- components
-- pages
-- API
-- Plugins
+# Install Gatsbyjs
 
-For every gatsbyjs project, design your project into pages and then components.
+## Install Gatsbyjs
 
-## Components
-smallest part of your application
+`npm install -g gatsby-cli`
 
-## Pages
-holder of the components
+## Create new folder name "gatsby-site" or any prefer name you would like too.
 
-## APIs
-gatsbyjs apis are to support the development of the project
+`gatsby new gatsby-site`
 
-eg: page APIs
+## Move to the folder
 
-## plugins
-gatsbyjs plugins are to support the development of the project
+`cd gatsby-site`
 
-eg: transform-mark
+## Run the local dev-server
+
+`gatsby develop`
+
+## Build
+
+`gatsby build`
