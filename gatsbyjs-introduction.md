@@ -77,7 +77,7 @@ To name few :
 
 ## :diamond_shape_with_a_dot_inside: Gatsbyjs and Performance
 
-As per me, performance is very relative term. Unless and until same app is tested with different tech-stack and under same tools and traffic. Though Gatsbyjs claim for Blazing-fast site. It could be. Here is the lighthouse score of the application we have developed.
+As per me, performance is very relative term. Unless and until same app is tested with different tech-stack and under same tools and traffic. Though Gatsbyjs claim for Blazing-fast site. It could be. 
 
 - Speed Index (page load performance) & Time to interact
 - webpagespeed.org
@@ -85,10 +85,10 @@ As per me, performance is very relative term. Unless and until same app is teste
 Improve:
 
 - TTI - time to interact
-- rendering critical path - AIM
-- progressive rendering - AIM
-- Code spliting - Load less JS - PLAN
-- Tree shaking - PLAN
+- rendering critical path 
+- progressive rendering
+- Code spliting - Load less JS
+- Tree shaking 
 
 Gatsbyjs do performance optimizations automatically
 
@@ -96,6 +96,7 @@ Gatsbyjs do performance optimizations automatically
 - link preload
 - pre-route (data-spilitng)
 - prefetch
+- Webpack (take care of many things)
 
 Tradeoff
 
